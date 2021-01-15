@@ -15,7 +15,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 ### Database Schemas
 
 The description of the structure and extra information about each _resource_ stored in the included database (`./data/lambda.db3`) is listed below.
-
+ 
 #### Projects
 
 | Field       | Data Type | Metadata                                                                    |
