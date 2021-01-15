@@ -128,7 +128,13 @@ There are two possible ways to submit this project to Canvas. Lambda Staff will 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
-1. Understand and explain the use of Middleware.
+node js is uses js in the backend to create quicker connections
+express is a 
+1. Understand and explain the use of Middleware. 
+is useful for additional features for express they handle req and res and decide what to do with them either move forward, send response, or fall into error 
 1. The basic principles of the REST architectural style.
+
 1. Understand and explain the use of Express Routers.
+allows for separation of concerns to allow for more streamlined code
 1. Describe tooling used to manually test the correctness of an API.
+using postman to control and test our endpoints 
